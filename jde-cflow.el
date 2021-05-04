@@ -1,4 +1,5 @@
-;; jde-cflow.el - java control statement expander
+;;; jde-cflow.el --- Java control statement expander
+
 ;; $Revision: 1.12 $
 ;; $Date: 2000/06/19 10:18:54 $
 
